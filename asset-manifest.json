@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.ba080222.css",
+    "main.js": "/portfolio-react/static/js/main.989e2f1f.js",
+    "static/media/albert-dera-ILip77SbmOE-unsplash.jpg": "/portfolio-react/static/media/albert-dera-ILip77SbmOE-unsplash.fc28102532afb35288ee.jpg",
+    "index.html": "/portfolio-react/index.html",
+    "main.ba080222.css.map": "/portfolio-react/static/css/main.ba080222.css.map",
+    "main.989e2f1f.js.map": "/portfolio-react/static/js/main.989e2f1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba080222.css",
+    "static/js/main.989e2f1f.js"
+  ]
+}
