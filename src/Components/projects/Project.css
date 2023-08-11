@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.skill-div{
+    text-align: center;
+    padding: 10px 15px;
+}
+
+.heading{
+
+    font-size: 20px;
+
+}
+
+.para{
+    font-size: 15px;
+    text-align: start;
+    margin-top: 10px;
+}

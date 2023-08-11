@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.footer-div{
+    background-color: #5a5a5a;
+    color: white;
+    text-align: center;
+    padding: 5px 0px;
+}
+
+.footer-name{
+    font-size: 18px;
+}
+
+.link{
+    color: red;
+    margin-right: 5px;
+}
